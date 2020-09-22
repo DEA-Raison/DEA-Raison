@@ -1,16 +1,26 @@
-### Hi there 👋
+# DEA Raison
 
-<!--
-**DEARaison/DEARaison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DEA Raison is a call to the French sentence “Raison D'être”, which means “Reason for Being.”
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a information Technology Student. I have a strong passion and interest for Artificial intelligence, Machine learning, Deep learning,... etc
+
+## GitHub Stats
+
+[![DEARaison's github stats](https://github-readme-stats.vercel.app/api?username=DEARaison&count_private=true&show_icons=true)](https://github.com/DEARaison)
+
+## Wakatime stats
+
+[![DEARaison's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DEARaison)](https://wakatime.com/@DEARaison)
+
+## 🔭 I’m currently working on:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&repo=opencv-digital-image-processing&show_owner=true)](https://github.com/DEARaison/opencv-digital-image-processing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&repo=letter-images-collector&show_owner=true)](https://github.com/DEARaison/letter-images-collector)
+
+## 💬 Ask me about
+
+Java programming language, Digital image processing in OpenCV.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEARaison&layout=compact)](https://github.com/DEARaison)
