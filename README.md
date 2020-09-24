@@ -8,7 +8,7 @@ I'm a information Technology Student. I have a strong passion and interest for A
 
 ## GitHub Stats
 
-[![DEARaison's github stats](https://github-readme-stats.vercel.app/api?username=DEARaison&count_private=true&show_icons=true)](https://github.com/DEARaison)
+[![DEARaison's github stats](https://github-readme-stats.vercel.app/api?username=DEARaison&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/DEARaison)
 
 ## Wakatime stats
 
