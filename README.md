@@ -8,7 +8,7 @@ I'm a information Technology Student. I have a strong passion and interest for A
 
 ## GitHub Stats
 
-[![DEARaison's github stats](https://github-readme-stats.vercel.app/api?username=DEARaison&count_private=true&show_icons=true)](https://github.com/DEARaison)
+[![DEARaison's github stats](https://github-readme-stats.vercel.app/api?username=DEARaison&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/DEARaison)
 
 ## Wakatime stats
 
@@ -16,7 +16,7 @@ I'm a information Technology Student. I have a strong passion and interest for A
 
 ## 🔭 I’m currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&repo=opencv-digital-image-processing&show_owner=true)](https://github.com/DEARaison/opencv-digital-image-processing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&repo=java-opencv-digital-image-processing&show_owner=true)](https://github.com/DEARaison/java-opencv-digital-image-processing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&repo=letter-images-collector&show_owner=true)](https://github.com/DEARaison/letter-images-collector)
 
 ## 💬 Ask me about
