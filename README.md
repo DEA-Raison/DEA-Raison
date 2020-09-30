@@ -16,8 +16,7 @@ I'm a information Technology Student. I have a strong passion and interest for A
 
 ## 🔭 I’m currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&repo=java-opencv-digital-image-processing&show_owner=true)](https://github.com/DEARaison/java-opencv-digital-image-processing)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&repo=letter-images-collector&show_owner=true)](https://github.com/DEARaison/letter-images-collector)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&show_owner=true&repo=DEARaison&show_owner=true)](https://github.com/DEARaison/DEARaison)
 
 ## 💬 Ask me about
 
