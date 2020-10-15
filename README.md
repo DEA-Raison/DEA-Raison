@@ -4,7 +4,7 @@ DEA Raison is a call to the French sentence “Raison D'être”, which means �
 
 ## Hi there 👋
 
-I'm a Bachelor of Software Engineering. I have a strong passion and interest for Artificial intelligence, Machine learning, Deep learning,... etc
+I'm a Software Engineer. I have a strong passion and interest for Artificial intelligence, Machine learning, Deep learning,... etc
 
 ## GitHub Stats
 
