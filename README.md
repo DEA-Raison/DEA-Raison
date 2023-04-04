@@ -1,6 +1,6 @@
-# DEA Raison
+# Frost Gate
 
-DEA Raison is a call to the French sentence “Raison D'être”, which means “Reason for Being.”
+My nick name is Frost Gate. 
 
 ## Hi there 👋
 
