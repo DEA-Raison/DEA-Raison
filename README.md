@@ -12,11 +12,12 @@ I'm a Software Engineer. I have a strong passion and interest for Artificial int
 
 ## Wakatime stats
 
-[![DE ARaison's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DEA_Raison)](https://wakatime.com/@DEA_Raison)
+[![DEA Raison's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DEA_Raison)](https://wakatime.com/@DEA_Raison)
 
 ## 🔭 I’m currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEA-Raison&show_owner=true&repo=DEA-Raison&show_owner=true)](https://github.com/DEA-Raison/DEA-Raison)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEA-Raison&show_owner=true&repo=powershell-auto-clicker&show_owner=true)](https://github.com/DEA-Raison/powershell-auto-clicker)
 
 ## 💬 Ask me about
 
