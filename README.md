@@ -8,18 +8,18 @@ I'm a Software Engineer. I have a strong passion and interest for Artificial int
 
 ## GitHub Stats
 
-[![DEARaison's github stats](https://github-readme-stats.vercel.app/api?username=DEARaison&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/DEARaison)
+[![DEA Raison's github stats](https://github-readme-stats.vercel.app/api?username=DEA-Raison&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/DEA-Raison)
 
 ## Wakatime stats
 
-[![DEARaison's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DEARaison)](https://wakatime.com/@DEARaison)
+[![DE ARaison's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DEA_Raison)](https://wakatime.com/@DEA_Raison)
 
 ## 🔭 I’m currently working on:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEARaison&show_owner=true&repo=DEARaison&show_owner=true)](https://github.com/DEARaison/DEARaison)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DEA-Raison&show_owner=true&repo=DEA-Raison&show_owner=true)](https://github.com/DEA-Raison/DEA-Raison)
 
 ## 💬 Ask me about
 
 Java programming language, Digital image processing in OpenCV.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEARaison&layout=compact)](https://github.com/DEARaison)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEA-Raison&layout=compact)](https://github.com/DEA-Raison)
