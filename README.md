@@ -1,5 +1,5 @@
 # DEA Raison
-## Read Me repository
+## Read Me Profile
 
 DEA Raison is a call to the French sentence “Raison D'être”, which means “Reason for Being.”
 
